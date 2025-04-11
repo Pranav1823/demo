@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Big Tech faces antitrust probe",
+        "date": "2025-04-10",
+        "summary": "Regulators investigate major tech companies.",
+        "sentiment": "negative",
+        "tickers": ["AAPL", "GOOGL", "QQQ"]
+    },
+    {
+        "title": "NVIDIA beats earnings estimates",
+        "date": "2025-04-09",
+        "summary": "Strong performance lifts semi stocks.",
+        "sentiment": "positive",
+        "tickers": ["NVDA", "QQQ"]
+    },
+    {
+        "title": "Apple announces new product launch",
+        "date": "2025-04-11",
+        "summary": "Exciting new devices are on the way.",
+        "sentiment": "positive",
+        "tickers": ["AAPL"]
+    }
+]

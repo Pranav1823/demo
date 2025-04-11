@@ -1,0 +1,30 @@
+[
+    {
+        "ticker": "QQQ",
+        "date": "2025-04-10",
+        "open": 378.0,
+        "close": 372.5,
+        "change_percent": -1.46
+    },
+    {
+        "ticker": "QQQ",
+        "date": "2025-04-09",
+        "open": 380.0,
+        "close": 378.0,
+        "change_percent": -0.52
+    },
+    {
+        "ticker": "AAPL",
+        "date": "2025-04-10",
+        "open": 170.0,
+        "close": 168.5,
+        "change_percent": -0.88
+    },
+    {
+        "ticker": "AAPL",
+        "date": "2025-04-09",
+        "open": 172.0,
+        "close": 170.0,
+        "change_percent": -1.16
+    }
+]
