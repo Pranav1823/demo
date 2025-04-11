@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import json
-import matplotlib.pyplot as plt
+import altair as alt
 from collections import Counter
 
 # Load data
